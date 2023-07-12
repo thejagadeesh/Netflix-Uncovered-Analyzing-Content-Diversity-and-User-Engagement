@@ -22,9 +22,13 @@ The dataset utilized in this analysis is sourced from Kaggle, offering comprehen
 
 ## Netflix Analytics Dashboard: 
 The analysis is based on a custom-built Netflix analytics dashboard, which provides visualizations and insights derived from the dataset.
+
+![Netflix Dashboard](https://github.com/thejagadeesh/Netflix-Unveiled-Analyzing-Content-Diversity-and-User-Engagement-in-Movies-and-TV-Shows/assets/114074976/acbe6fa6-ec2f-4b8e-9b68-40799abd3a47)
+
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Tableau Dashboard: 
+https://public.tableau.com/app/profile/dinoco/viz/NetflixDashboard_16890075388300/Netflix
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Key Findings: 
 
