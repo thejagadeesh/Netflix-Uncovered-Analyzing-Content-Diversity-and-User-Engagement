@@ -1,4 +1,5 @@
-# Netflix Unveiled: Analyzing Content Diversity and User Engagement in Movies and TV Shows.
+<h1 align="center">Netflix Unveiled: Analyzing Content Diversity and User Engagement in Movies and TV Shows.</h1>
+
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ![image](https://cdn.arstechnica.net/wp-content/uploads/2022/07/netflix.jpg)
