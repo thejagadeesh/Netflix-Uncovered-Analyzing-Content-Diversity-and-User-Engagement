@@ -83,9 +83,14 @@ Leverage the popularity of genres like Documentaries, Stand-Up Comedy, and inter
 ## Enhanced User Experience: 
 Refine recommendation algorithms by leveraging individual viewing habits, ratings, and genre preferences to deliver personalized content suggestions. Introduce innovative features and curated playlists to facilitate content discovery and offer an immersive viewing journey. 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ## Conclusion: 
 Through the utilization of Excel, Python, and Tableau, this data portfolio project presents in-depth insights and strategic recommendations for Netflix's content landscape and user engagement. By harnessing the power of these tools and technologies, we enable data-driven decision-making and highlight the importance of personalized recommendations and genre expansion.
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
+
+<h4 align="center">
+<h4 align="center">
+  <a href="https://sites.google.com/view/jagadeeshr" title="Portfolio"> Show More 🔍</a>
+</h4>
 
 
